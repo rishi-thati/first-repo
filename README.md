@@ -1,4 +1,4 @@
 # first-repo
 Demo Repository
 <br>
-Author - Rishi
+Author - Rishi (Rishi Thati)
